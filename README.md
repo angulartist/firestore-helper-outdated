@@ -1,2 +1,4 @@
-# generic-firestore-service
-Angularfire | generic firestore service
+# Youpi
+
+Generic firestore service to avoid doing multiple calls
+

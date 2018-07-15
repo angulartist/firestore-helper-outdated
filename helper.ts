@@ -14,7 +14,7 @@ type DocPredicate<T> = string | AngularFirestoreDocument<T>;
 @Injectable({
   providedIn: "root"
 })
-export class FirestoreService {
+export class Helper {
   constructor(public afs: AngularFirestore) {}
 
   /**
